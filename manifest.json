@@ -1,0 +1,27 @@
+{
+  "name": "CestaApp — Tu compra inteligente",
+  "short_name": "CestaApp",
+  "description": "Gestiona tu cesta de la compra, analiza gastos y controla precios",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#2D6A4F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "finance", "lifestyle"],
+  "lang": "es",
+  "screenshots": []
+}
